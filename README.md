@@ -9,9 +9,9 @@ https://drive.google.com/file/d/19kPL002kcA-blh1c94M4ubgcygJsdDzA/view?usp=shari
 
 Description of Data:
 
-Id: transaction ID (combination of Store and date) 
+Id: transaction ID (combination of Store and date)
 Store: unique store Id
-Sales: sales/day, this is the target variable 
+Sales: sales/day, this is the target variable
 Customers: number of customers on a given day
 Open: Boolean to say whether a store is open or closed (0 = closed, 1 = open)
 Promo: describes if store is running a promo on that day or not
